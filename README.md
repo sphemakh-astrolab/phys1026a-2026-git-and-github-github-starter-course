@@ -1,9 +1,9 @@
 # :wave: Welcome to PHYS1026 Computer Labs
 
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. But, before we dive into Git and GitHub, let's first get familiar with the Linux Terminal. Follow [this tutorial](https://github.com/sphemakh-astrolab/introduction/blob/main/linux-command_line.md#basic-linux-command-line-tutorial) before proceeding.  
+The goal of this Lab is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. But, before we dive into Git and GitHub, let's first get familiar with the Linux Terminal. Follow [this tutorial](https://github.com/sphemakh-astrolab/introduction/blob/main/linux-command_line.md#basic-linux-command-line-tutorial) before proceeding.  
 
 ## :octocat: Git and GitHub
 
@@ -11,7 +11,7 @@ Git is a **distributed Version Control System (VCS)**, which means it is a usefu
 
 GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
 
-GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
+GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. We start with the basics of GitHub, but we'll dig into the rest later.
 
 ## :octocat: Understanding the GitHub flow 
 
@@ -55,7 +55,7 @@ To learn more about using GitHub’s flavor of markdown, read ["Basic Writing an
 
 ## 📝 Exercise 
 
-* Open a pull request and let your teacher know that you’ve finished this course.  
+* Open a pull request and let your teacher know that you’ve finished this Lab.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them.
@@ -77,8 +77,6 @@ To learn more about issues and linking them to your pull requests, read ["About 
 
 Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
 To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-### Rate this course
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey?
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
