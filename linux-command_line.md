@@ -5,7 +5,7 @@ Before we get started on Git and Github, let's first get farmiliar with the _Lin
 Here is a beginner’s guide to navigating and controlling your system. 
 
 ---
-### 0. Windows Subsystem for Linux and Ubuntu
+### 0. Windows Subsystem for Linux and Ubuntu (skip this step if using MacOS or Linux)
 The Windows Subsystem for Linux (WSL) allows running Linux environment, including command-line tools and applications, directly on Windows. In our case, the falvour of Linux will be [Ubuntu]([url](https://ubuntu.com/)). 
 * **Install Ubuntu via WSL**
 * Launch the Windows Command Prompt Terminal
