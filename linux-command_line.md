@@ -5,10 +5,18 @@ Before we get started on Git and Github, let's first get farmiliar with the _Lin
 Here is a beginner’s guide to navigating and controlling your system. 
 
 ---
+### 0. Windows Subsystem for Linux and Ubuntu
+The Windows Subsystem for Linux (WSL) allows running Linux environment, including command-line tools and applications, directly on Windows. In our case, the falvour of Linux will be [Ubuntu]([url](https://ubuntu.com/)). 
+* **Install Ubuntu via WSL**
+* Launch the Windows Command Prompt Terminal
+* Run `wsl --install` # This will take a few minutes
+* Then launch Ubuntu by running `wsl -d Ubuntu`
+* On the first launch, you be prompted to set a username and password (set these as you wish.)
+
 
 ### 1. Understanding the Interface
 
-When you open your terminal, you will see a **Command Prompt**. It usually looks something like this:
+When you open your terminal, you will see a **Linux Terminal**. It usually looks something like this:
 
 `user@computername:~$`
 
